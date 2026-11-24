@@ -3,3 +3,11 @@
 .vscode/
 *.json
 pletnev.zov
+
+.DS_Store
+/obj/
+/cache/
+/logs/
+/*.out
+/compiled.asm
+/compiled.o
