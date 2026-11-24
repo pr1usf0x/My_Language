@@ -3,3 +3,15 @@
 .vscode/
 *.json
 pletnev.zov
+
+.DS_Store
+/obj/
+/cache/
+/logs/
+/*.out
+/compiled.asm
+/compiled.o
+/a.out.id0
+/a.out.id1
+/a.out.nam
+/a.out.til
